@@ -1,0 +1,6 @@
+project/node_modules/
+backend/venv/
+.env
+*.log
+flask-backend/.env
+project/node_modules/
